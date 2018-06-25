@@ -1,3 +1,6 @@
+# Surfair modified FVM plugin
+Modified FVM plugin (https://wordpress.org/plugins/fast-velocity-minify/) with modified file caching to keep file cache names consistent so load balancer can create consistent asset files.
+
 === Fast Velocity Minify ===
 Contributors: Alignak
 Tags: PHP Minify, YUI Compressor, GTmetrix, Pingdom, Pagespeed, CSS Merging, JS Merging, CSS Minification, JS Minification, Speed Optimization, HTML Minification, Performance
